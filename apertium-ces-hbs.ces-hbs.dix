@@ -1,0 +1,15 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="vbser"      c="Verb 'to be'"/>
+  </sdefs>
+
+
+  <section id="main" type="standard">
+
+    <!-- SECTION: Verbs -->
+
+    <e><p><l>být<s n="vbser"/></l><r>biti<s n="vbser"/></r></p></e>
+
+  </section>
+</dictionary>

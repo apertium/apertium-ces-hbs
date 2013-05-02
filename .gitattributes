@@ -1,4 +1,5 @@
 * text=auto !eol
+/apertium-ces-hbs.ces-hbs.dix -text
 /apertium-ces-hbs.ces.dix -text
 dev/rasskaz.ces.txt -text
 dev/rasskaz.hbs.txt -text
