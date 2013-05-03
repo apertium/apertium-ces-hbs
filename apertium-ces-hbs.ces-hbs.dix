@@ -139,7 +139,7 @@
 	
 	<!-- SECTION: Adverbs -->
 	
-	<e><p><l>kde<s n="adv"/><s n="itg"/></l><r>gdje<s n="adv"/><s n="itg"/></r></p></e>
+	<e><p><l>kde<s n="adv"/><s n="itg"/></l><r>gdje<s n="adv"/></r></p></e>
 
 	<e><p><l>dnes<s n="adv"/></l><r>danas<s n="adv"/></r></p></e>
 	<e><p><l>ne<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
@@ -159,7 +159,7 @@
 	
 	<!-- SECTION: Conjunctions -->
 	
-	<e><p><l>a<s n="conj"/></l><r>i<s n="conj"/></r></p></e>
+	<e><p><l>a<s n="cnjcoo"/></l><r>i<s n="cnjcoo"/></r></p></e>
 	<e><p><l>ale<s n="cnjcoo"/></l><r>ali<s n="cnjcoo"/></r></p></e>
 
 	<e><p><l>který<s n="conj"/></l><r>koji<s n="conj"/></r></p></e>
