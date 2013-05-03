@@ -20,19 +20,32 @@
     <sdef n="pl" 		c="Plural"/>
 	
 	<sdef n="prn" 		c="Pronoun"/>
+	<sdef n="ref" 		c="Reflexive"/>
+	<sdef n="pers" 		c="Personal"/>
+	<sdef n="itg" 		c="Interrogative"/>
     <sdef n="pr" 		c="Preposition"/>
+
+	<sdef n="imperf" 		c="Imperfective"/>
+	<sdef n="perf" 		c="Perfective"/>
+
+	<sdef n="tv" 		c="Transitive"/>
+	<sdef n="iv" 		c="Intransitive"/>
 	
 	<sdef n="adv" 		c="Adverb"/>
+	<sdef n="mfn" 		c="Masculine/feminine/neuter"/>
+	<sdef n="sp" 		c="Singular/plural"/>
 	
 	<sdef n="adj" 		c="Adjective"/>
 	
 	<sdef n="conj" 		c="Conjunction"/>
+	<sdef n="cnjcoo" 		c="Coordinating Conjunction"/>
 	
 	<sdef n="num" 		c="Numeral / Number"/>
 	
 	<sdef n="part" 		c="Particle"/>
 	
 	<sdef n="sent" 		c="Sentence"/>
+	<sdef n="cm" 		c="Comma"/>
 	
   </sdefs>
 
@@ -43,9 +56,9 @@
 
     <e><p><l>být<s n="vbser"/></l><r>biti<s n="vbser"/></r></p></e>
 	
-	<e><p><l>moci<s n="vbmod"/></l><r>moći<s n="vbmod"/></r></p></e>
+	<e><p><l>moci<s n="vaux"/></l><r>moći<s n="vbmod"/></r></p></e>
 	
-	<e><p><l>hrát<s n="vblex"/></l><r>igrati<s n="vblex"/></r></p></e>
+	<e><p><l>hrát<s n="vblex"/><s n="imperf"/></l><r>igrati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
 	<e><p><l>zbožňovat<s n="vblex"/></l><r>obožavati<s n="vblex"/></r></p></e>
 	<e><p><l>mít<s n="vblex"/></l><r>imati<s n="vblex"/></r></p></e>
 	<e><p><l>spát<s n="vblex"/></l><r>spavati<s n="vblex"/></r></p></e>
@@ -83,6 +96,7 @@
 	<e><p><l>ruka<s n="n"/></l><r>ruka<s n="n"/></r></p></e>
 	<e><p><l>oko<s n="n"/></l><r>oko<s n="n"/></r></p></e>
 	<e><p><l>hra<s n="n"/></l><r>igra<s n="n"/></r></p></e>
+	<e><p><l>voda<s n="n"/><s n="f"/></l><r>voda<s n="n"/><s n="f"/></r></p></e>
 	
 	<!-- SECTION: Proper nouns -->
 	
@@ -91,6 +105,8 @@
 	
 	
 	<!-- SECTION: Pronouns -->
+
+	<e><p><l>se<s n="prn"/><s n="ref"/></l><r>se<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></r></p></e>
 	
 	<e><p><l>si<s n="prn"/></l><r>se<s n="prn"/></r></p></e>
 	<e><p><l>mu<s n="prn"/></l><r>mu<s n="prn"/></r></p></e>
@@ -123,8 +139,10 @@
 	
 	<!-- SECTION: Adverbs -->
 	
-	<e><p><l>kde<s n="adv"/></l><r>gdje<s n="adv"/></r></p></e>
+	<e><p><l>kde<s n="adv"/><s n="itg"/></l><r>gdje<s n="adv"/><s n="itg"/></r></p></e>
+
 	<e><p><l>dnes<s n="adv"/></l><r>danas<s n="adv"/></r></p></e>
+	<e><p><l>ne<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
 	<e><p><l>velice<s n="adv"/></l><r>jako<s n="adv"/></r></p></e>
 	<e><p><l>včera<s n="adv"/></l><r>jučer<s n="adv"/></r></p></e>
 	<e><p><l>venku<s n="adv"/></l><r>vani<s n="adv"/></r></p></e>
@@ -142,7 +160,8 @@
 	<!-- SECTION: Conjunctions -->
 	
 	<e><p><l>a<s n="conj"/></l><r>i<s n="conj"/></r></p></e>
-	<e><p><l>ale<s n="conj"/></l><r>ali<s n="conj"/></r></p></e>
+	<e><p><l>ale<s n="cnjcoo"/></l><r>ali<s n="cnjcoo"/></r></p></e>
+
 	<e><p><l>který<s n="conj"/></l><r>koji<s n="conj"/></r></p></e>
 	<e><p><l>jak<s n="conj"/></l><r>kako<s n="conj"/></r></p></e>
 	
@@ -166,6 +185,8 @@
 	
 	<e><p><l>ne<s n="part"/></l><r>ne<s n="part"/></r></p></e>
 	
+	<!-- SECTION: Punctuation-->
+	<e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
 	<e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 	
   </section>
