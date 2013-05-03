@@ -14,6 +14,8 @@
     <sdef n="f" 		c="Feminine"/>
     <sdef n="nt" 		c="Neuter"/>
 	
+	<sdef n="ant" 		c="Antroponym"/>
+	
 	<sdef n="sg" 		c="Singular"/>
     <sdef n="pl" 		c="Plural"/>
 	
