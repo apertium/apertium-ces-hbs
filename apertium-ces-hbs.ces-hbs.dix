@@ -3,6 +3,7 @@
   <sdefs>
     <sdef n="vbser"		c="Verb 'to be'"/>
     <sdef n="vblex" 	c="Lexical verb"/>
+    <sdef n="vbhaver" 	c="Verb 'to have'"/>
     <sdef n="vaux" 		c="Auxilliary verb"/>
 	<sdef n="vbmod" 	c="Modal verb"/>
 	
@@ -58,6 +59,8 @@
 	
 	<e><p><l>moci<s n="vaux"/></l><r>moći<s n="vbmod"/></r></p></e>
 	
+	<e><p><l>mít<s n="vbhaver"/><s n="imperf"/></l><r>imati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+
 	<e><p><l>hrát<s n="vblex"/><s n="imperf"/></l><r>igrati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
 	<e><p><l>zbožňovat<s n="vblex"/></l><r>obožavati<s n="vblex"/></r></p></e>
 	<e><p><l>mít<s n="vblex"/></l><r>imati<s n="vblex"/></r></p></e>
