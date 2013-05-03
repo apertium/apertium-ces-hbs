@@ -83,23 +83,24 @@
 	
 	<!-- SECTION: Nouns -->
 	
-	<e><p><l>zahrada<s n="n"/></l><r>vrt<s n="n"/></r></p></e>
-	<e><p><l>počasí<s n="n"/></l><r>vrijeme<s n="n"/></r></p></e>
-	<e><p><l>dům<s n="n"/></l><r>kuća<s n="n"/></r></p></e>
-	<e><p><l>chlapec<s n="n"/></l><r>dječak<s n="n"/></r></p></e>
-	<e><p><l>léto<s n="n"/></l><r>godina<s n="n"/></r></p></e>
-	<e><p><l>holčička<s n="n"/></l><r>djevojčica<s n="n"/></r></p></e>
-	<e><p><l>sestra<s n="n"/></l><r>sestra<s n="n"/></r></p></e>
-	<e><p><l>pes<s n="n"/></l><r>pas<s n="n"/></r></p></e>
-	<e><p><l>dítě<s n="n"/></l><r>dijete<s n="n"/></r></p></e>
-	<e><p><l>kočka<s n="n"/></l><r>mačka<s n="n"/></r></p></e>	
-	<e><p><l>matka<s n="n"/></l><r>majka<s n="n"/></r></p></e>
-	<e><p><l>okno<s n="n"/></l><r>prozor<s n="n"/></r></p></e>
-	<e><p><l>strom<s n="n"/></l><r>drvo<s n="n"/></r></p></e>
-	<e><p><l>ruka<s n="n"/></l><r>ruka<s n="n"/></r></p></e>
-	<e><p><l>oko<s n="n"/></l><r>oko<s n="n"/></r></p></e>
-	<e><p><l>hra<s n="n"/></l><r>igra<s n="n"/></r></p></e>
+	<e><p><l>zahrada<s n="n"/><s n="f"/></l><r>vrt<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>počasí<s n="n"/><s n="nt"/></l><r>vrijeme<s n="n"/><s n="nt"/></r></p></e>
+	<e><p><l>dům<s n="n"/><s n="m"/></l><r>kuća<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>chlapec<s n="n"/><s n="m"/></l><r>dječak<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>léto<s n="n"/><s n="nt"/></l><r>godina<s n="n"/><s n="nt"/></r></p></e>
+	<e><p><l>holčička<s n="n"/><s n="f"/></l><r>djevojčica<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>sestra<s n="n"/><s n="f"/></l><r>sestra<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>pes<s n="n"/><s n="m"/></l><r>pas<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>dítě<s n="n"/><s n="nt"/></l><r>dijete<s n="n"/><s n="nt"/></r></p></e>
+	<e><p><l>kočka<s n="n"/><s n="f"/></l><r>mačka<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>matka<s n="n"/><s n="f"/></l><r>majka<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>okno<s n="n"/><s n="nt"/></l><r>prozor<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>strom<s n="n"/><s n="m"/></l><r>drvo<s n="n"/><s n="nt"/></r></p></e>
+	<e><p><l>ruka<s n="n"/><s n="f"/></l><r>ruka<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>oko<s n="n"/><s n="nt"/></l><r>oko<s n="n"/><s n="nt"/></r></p></e>
+	<e><p><l>hra<s n="n"/><s n="f"/></l><r>igra<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>voda<s n="n"/><s n="f"/></l><r>voda<s n="n"/><s n="f"/></r></p></e>
+	
 	
 	<!-- SECTION: Proper nouns -->
 	
