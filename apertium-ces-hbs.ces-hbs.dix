@@ -32,6 +32,8 @@
 	
 	<sdef n="part" 		c="Particle"/>
 	
+	<sdef n="sent" 		c="Sentence"/>
+	
   </sdefs>
 
 
