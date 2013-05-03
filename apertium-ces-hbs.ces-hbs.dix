@@ -1,7 +1,35 @@
 <dictionary>
-  <alphabet/>
+  <alphabet>AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzžĄĆĘŃŚŻŹŁąćęńśżźłĕ</alphabet>
   <sdefs>
-    <sdef n="vbser"      c="Verb 'to be'"/>
+    <sdef n="vbser"		c="Verb 'to be'"/>
+    <sdef n="vblex" 	c="Lexical verb"/>
+    <sdef n="vaux" 		c="Auxilliary verb"/>
+	<sdef n="vbmod" 	c="Modal verb"/>
+	
+	<sdef n="n" 		c="Noun"/>
+	
+	<sdef n="np" 		c="Proper noun"/>
+	
+    <sdef n="m" 		c="Masculine"/>
+    <sdef n="f" 		c="Feminine"/>
+    <sdef n="nt" 		c="Neuter"/>
+	
+	<sdef n="sg" 		c="Singular"/>
+    <sdef n="pl" 		c="Plural"/>
+	
+	<sdef n="prn" 		c="Pronoun"/>
+    <sdef n="pr" 		c="Preposition"/>
+	
+	<sdef n="adv" 		c="Adverb"/>
+	
+	<sdef n="adj" 		c="Adjective"/>
+	
+	<sdef n="conj" 		c="Conjunction"/>
+	
+	<sdef n="num" 		c="Numeral / Number"/>
+	
+	<sdef n="part" 		c="Particle"/>
+	
   </sdefs>
 
 
@@ -10,6 +38,127 @@
     <!-- SECTION: Verbs -->
 
     <e><p><l>být<s n="vbser"/></l><r>biti<s n="vbser"/></r></p></e>
-
+	
+	<e><p><l>moci<s n="vbmod"/></l><r>moći<s n="vbmod"/></r></p></e>
+	
+	<e><p><l>hrát<s n="vblex"/></l><r>igrati<s n="vblex"/></r></p></e>
+	<e><p><l>zbožňovat<s n="vblex"/></l><r>obožavati<s n="vblex"/></r></p></e>
+	<e><p><l>mít<s n="vblex"/></l><r>imati<s n="vblex"/></r></p></e>
+	<e><p><l>spát<s n="vblex"/></l><r>spavati<s n="vblex"/></r></p></e>
+	<e><p><l>dívat<s n="vblex"/></l><r>gledati<s n="vblex"/></r></p></e>
+	<e><p><l>vidět<s n="vblex"/></l><r>vidjeti<s n="vblex"/></r></p></e>
+	<e><p><l>běžet<s n="vblex"/></l><r>trčati<s n="vblex"/></r></p></e>
+	<e><p><l>schovat se<s n="vblex"/></l><r>sakriti se<s n="vblex"/></r></p></e>
+	<e><p><l>vědět<s n="vblex"/></l><r>znati<s n="vblex"/></r></p></e>
+	<e><p><l>sedět<s n="vblex"/></l><r>sjediti<s n="vblex"/></r></p></e>
+	<e><p><l>držet<s n="vblex"/></l><r>držati<s n="vblex"/></r></p></e>
+	<e><p><l>odpočítat<s n="vblex"/></l><r>odbrojiti<s n="vblex"/></r></p></e>
+	<e><p><l>dělat<s n="vblex"/></l><r>raditi<s n="vblex"/></r></p></e>
+	<e><p><l>skončit<s n="vblex"/></l><r>završiti<s n="vblex"/></r></p></e>
+	<e><p><l>hledat<s n="vblex"/></l><r>tražiti<s n="vblex"/></r></p></e>
+	<e><p><l>odejít<s n="vblex"/></l><r>otići<s n="vblex"/></r></p></e>
+	<e><p><l>zeptat<s n="vblex"/></l><r>pitat<s n="vblex"/></r></p></e>
+	
+	<!-- SECTION: Nouns -->
+	
+	<e><p><l>zahrada<s n="n"/></l><r>vrt<s n="n"/></r></p></e>
+	<e><p><l>počasí<s n="n"/></l><r>vrijeme<s n="n"/></r></p></e>
+	<e><p><l>dům<s n="n"/></l><r>kuća<s n="n"/></r></p></e>
+	<e><p><l>chlapec<s n="n"/></l><r>dječak<s n="n"/></r></p></e>
+	<e><p><l>léto<s n="n"/></l><r>godina<s n="n"/></r></p></e>
+	<e><p><l>holčička<s n="n"/></l><r>djevojčica<s n="n"/></r></p></e>
+	<e><p><l>sestra<s n="n"/></l><r>sestra<s n="n"/></r></p></e>
+	<e><p><l>pes<s n="n"/></l><r>pas<s n="n"/></r></p></e>
+	<e><p><l>dítě<s n="n"/></l><r>dijete<s n="n"/></r></p></e>
+	<e><p><l>kočka<s n="n"/></l><r>mačka<s n="n"/></r></p></e>	
+	<e><p><l>matka<s n="n"/></l><r>majka<s n="n"/></r></p></e>
+	<e><p><l>okno<s n="n"/></l><r>prozor<s n="n"/></r></p></e>
+	<e><p><l>strom<s n="n"/></l><r>drvo<s n="n"/></r></p></e>
+	<e><p><l>ruka<s n="n"/></l><r>ruka<s n="n"/></r></p></e>
+	<e><p><l>oko<s n="n"/></l><r>oko<s n="n"/></r></p></e>
+	<e><p><l>hra<s n="n"/></l><r>igra<s n="n"/></r></p></e>
+	
+	<!-- SECTION: Proper nouns -->
+	
+	<e><p><l>Jeníček<s n="np"/></l><r>Ivica<s n="np"/></r></p></e>
+	<e><p><l>Mařenka<s n="np"/></l><r>Marica<s n="np"/></r></p></e>
+	
+	
+	<!-- SECTION: Pronouns -->
+	
+	<e><p><l>si<s n="prn"/></l><r>se<s n="prn"/></r></p></e>
+	<e><p><l>mu<s n="prn"/></l><r>mu<s n="prn"/></r></p></e>
+	<e><p><l>jeho<s n="prn"/></l><r>mu<s n="prn"/></r></p></e>
+	<e r="LR"><p><l>jeho<s n="n"/><s n="m"/></l><r>njegova<s n="n"/><s n="f"/></r></p></e>
+	<e r="LR"><p><l>jeho<s n="n"/><s n="m"/></l><r>njegov<s n="n"/><s n="m"/></r></p></e>
+	<e r="LR"><p><l>jeho<s n="n"/><s n="m"/></l><r>njegovo<s n="n"/><s n="nt"/></r></p></e>
+	<e><p><l>jí<s n="prn"/></l><r>joj<s n="prn"/></r></p></e>
+	<e r="LR"><p><l>jejich<s n="n"/></l><r>njihova<s n="n"/><s n="f"/></r></p></e>
+	<e r="LR"><p><l>jejich<s n="n"/></l><r>njihov<s n="n"/><s n="m"/></r></p></e>
+	<e r="LR"><p><l>jejich<s n="n"/></l><r>njihovo<s n="n"/><s n="nt"/></r></p></e>
+	<e><p><l>nic<s n="prn"/></l><r>ništa<s n="prn"/></r></p></e>
+	<e><p><l>to<s n="prn"/></l><r>to<s n="prn"/></r></p></e>
+	<e><p><l>co<s n="prn"/></l><r>što<s n="prn"/></r></p></e>
+	<e><p><l>sebe<s n="prn"/></l><r>sebe<s n="prn"/></r></p></e>
+	<e><p><l>ho<s n="prn"/></l><r>ga<s n="prn"/></r></p></e>
+	
+	
+	
+	<!-- SECTION: Adjectives -->
+	
+	<e><p><l>hezky<s n="adj"/></l><r>lijep<s n="adj"/></r></p></e>
+	<e><p><l>teplo<s n="adj"/></l><r>toplo<s n="adj"/></r></p></e>
+	<e><p><l>chladno<s n="adj"/></l><r>hladno<s n="adj"/></r></p></e>
+	<e><p><l>velký<s n="adj"/></l><r>velik<s n="adj"/></r></p></e>
+	<e><p><l>malý<s n="adj"/></l><r>mali<s n="adj"/></r></p></e>
+	<e><p><l>šťastný<s n="adj"/></l><r>sretan<s n="adj"/></r></p></e>
+	<e><p><l>starý<s n="adj"/></l><r>star<s n="adj"/></r></p></e>
+	
+	
+	<!-- SECTION: Adverbs -->
+	
+	<e><p><l>kde<s n="adv"/></l><r>gdje<s n="adv"/></r></p></e>
+	<e><p><l>dnes<s n="adv"/></l><r>danas<s n="adv"/></r></p></e>
+	<e><p><l>velice<s n="adv"/></l><r>jako<s n="adv"/></r></p></e>
+	<e><p><l>včera<s n="adv"/></l><r>jučer<s n="adv"/></r></p></e>
+	<e><p><l>venku<s n="adv"/></l><r>vani<s n="adv"/></r></p></e>
+	<e><p><l>vždycky<s n="adv"/></l><r>uvijek<s n="adv"/></r></p></e>
+	<e><p><l>spolu<s n="adv"/></l><r>zajedno<s n="adv"/></r></p></e>
+	<e><p><l>teď<s n="adv"/></l><r>sad<s n="adv"/></r></p></e>
+	<e><p><l>rád<s n="adv"/></l><r>rado<s n="adv"/></r></p></e>
+	<e><p><l>svižně<s n="adv"/></l><r>hitro<s n="adv"/></r></p></e>
+	<e><p><l>proč<s n="adv"/></l><r>zašto<s n="adv"/></r></p></e>
+	<e><p><l>když<s n="adv"/></l><r>kad<s n="adv"/></r></p></e>
+	<e><p><l>kampak<s n="adv"/></l><r>kamo<s n="adv"/></r></p></e>
+	<e><p><l>samozřejmě<s n="adv"/></l><r>naravno<s n="adv"/></r></p></e>
+	
+	
+	<!-- SECTION: Conjunctions -->
+	
+	<e><p><l>a<s n="conj"/></l><r>i<s n="conj"/></r></p></e>
+	<e><p><l>ale<s n="conj"/></l><r>ali<s n="conj"/></r></p></e>
+	<e><p><l>který<s n="conj"/></l><r>koji<s n="conj"/></r></p></e>
+	<e><p><l>jak<s n="conj"/></l><r>kako<s n="conj"/></r></p></e>
+	
+	
+	<!-- SECTION: Prepositions -->
+	
+	<e><p><l>v<s n="pr"/></l><r>u<s n="pr"/></r></p></e>
+	<e><p><l>před<s n="pr"/></l><r>ispred<s n="pr"/></r></p></e>
+	<e><p><l>z<s n="pr"/></l><r>s<s n="pr"/></r></p></e>
+	<e><p><l>k<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
+	<e><p><l>u<s n="pr"/></l><r>pored<s n="pr"/></r></p></e>
+	<e><p><l>kolem<s n="pr"/></l><r>oko<s n="pr"/></r></p></e>
+	
+	
+	<!-- SECTION: Numerals/Numbers -->
+	
+	<e><p><l>šest<s n="num"/></l><r>šest<s n="num"/></r></p></e>
+	<e><p><l>pět<s n="num"/></l><r>pet<s n="num"/></r></p></e>
+	
+	<!-- SECTION: Particles -->
+	
+	<e><p><l>ne<s n="part"/></l><r>ne<s n="part"/></r></p></e>
+	
   </section>
 </dictionary>
