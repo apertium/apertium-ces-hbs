@@ -26,7 +26,7 @@
 	<sdef n="itg" 		c="Interrogative"/>
     <sdef n="pr" 		c="Preposition"/>
 
-	<sdef n="imperf" 		c="Imperfective"/>
+	<sdef n="imperf" 	c="Imperfective"/>
 	<sdef n="perf" 		c="Perfective"/>
 
 	<sdef n="tv" 		c="Transitive"/>
@@ -55,30 +55,30 @@
 
     <!-- SECTION: Verbs -->
 
-    <e><p><l>být<s n="vbser"/></l><r>biti<s n="vbser"/></r></p></e>
+    <e><p><l>být<s n="vbser"/><s n="imperf"/><s n="iv"/></l><r>biti<s n="vbser"/><s n="imperf"/><s n="tv"/></r></p></e>
 	
-	<e><p><l>moci<s n="vaux"/></l><r>moći<s n="vbmod"/></r></p></e>
+	<e><p><l>mít<s n="vbhaver"/><s n="imperf"/><s n="tv"/></l><r>imati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
 	
-	<e><p><l>mít<s n="vbhaver"/><s n="imperf"/></l><r>imati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>moci<s n="vaux"/><s n="imperf"/><s n="tv"/></l><r>moći<s n="vbmod"/><s n="imperf"/><s n="tv"/></r></p></e>
 
-	<e><p><l>hrát<s n="vblex"/><s n="imperf"/></l><r>igrati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
-	<e><p><l>zbožňovat<s n="vblex"/></l><r>obožavati<s n="vblex"/></r></p></e>
-	<e><p><l>mít<s n="vblex"/></l><r>imati<s n="vblex"/></r></p></e>
-	<e><p><l>spát<s n="vblex"/></l><r>spavati<s n="vblex"/></r></p></e>
-	<e><p><l>dívat<s n="vblex"/></l><r>gledati<s n="vblex"/></r></p></e>
-	<e><p><l>vidět<s n="vblex"/></l><r>vidjeti<s n="vblex"/></r></p></e>
-	<e><p><l>běžet<s n="vblex"/></l><r>trčati<s n="vblex"/></r></p></e>
-	<e><p><l>schovat se<s n="vblex"/></l><r>sakriti se<s n="vblex"/></r></p></e>
-	<e><p><l>vědět<s n="vblex"/></l><r>znati<s n="vblex"/></r></p></e>
-	<e><p><l>sedět<s n="vblex"/></l><r>sjediti<s n="vblex"/></r></p></e>
-	<e><p><l>držet<s n="vblex"/></l><r>držati<s n="vblex"/></r></p></e>
-	<e><p><l>odpočítat<s n="vblex"/></l><r>odbrojiti<s n="vblex"/></r></p></e>
-	<e><p><l>dělat<s n="vblex"/></l><r>raditi<s n="vblex"/></r></p></e>
-	<e><p><l>skončit<s n="vblex"/></l><r>završiti<s n="vblex"/></r></p></e>
-	<e><p><l>hledat<s n="vblex"/></l><r>tražiti<s n="vblex"/></r></p></e>
-	<e><p><l>odejít<s n="vblex"/></l><r>otići<s n="vblex"/></r></p></e>
-	<e><p><l>zeptat<s n="vblex"/></l><r>pitat<s n="vblex"/></r></p></e>
-	<e><p><l>umět<s n="vblex"/></l><r>moći<s n="vblex"/></r></p></e>
+	<e><p><l>hrát<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>igrati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>zbožňovat<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>obožavati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>mít<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>imati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>spát<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>spavati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+	<e><p><l>dívat<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>gledati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>vidět<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>vidjeti<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+	<e><p><l>běžet<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>trčati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+	<e><p><l>schovat<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>sakriti<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+	<e><p><l>vědět<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>znati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>sedět<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>sjediti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+	<e><p><l>držet<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>držati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>odpočítavat<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>odbrojavati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+	<e><p><l>dělat<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>raditi<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>skončit<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>završiti<s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
+	<e><p><l>hledat<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>tražiti<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>odejít<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>otići<s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
+	<e><p><l>zeptat<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>pitat<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+	<e><p><l>umět<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>moći<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
 	
 	
 	<!-- SECTION: Nouns -->
