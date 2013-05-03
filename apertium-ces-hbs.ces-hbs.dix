@@ -42,7 +42,8 @@
 	<sdef n="adj" 		c="Adjective"/>
 	
 	<sdef n="conj" 		c="Conjunction"/>
-	<sdef n="cnjcoo" 		c="Coordinating Conjunction"/>
+	<sdef n="cnjcoo" 	c="Coordinating Conjunction"/>
+	<sdef n="cnjsub" 	c="Subordinating conjunction"/>
 	
 	<sdef n="num" 		c="Numeral / Number"/>
 	
@@ -164,9 +165,8 @@
 	
 	<e><p><l>a<s n="cnjcoo"/></l><r>i<s n="cnjcoo"/></r></p></e>
 	<e><p><l>ale<s n="cnjcoo"/></l><r>ali<s n="cnjcoo"/></r></p></e>
-
-	<e><p><l>který<s n="conj"/></l><r>koji<s n="conj"/></r></p></e>
-	<e><p><l>jak<s n="conj"/></l><r>kako<s n="conj"/></r></p></e>
+	<e><p><l>který<s n="conjsub"/></l><r>koji<s n="conjsub"/></r></p></e>
+	<e><p><l>jak<s n="conjsub"/></l><r>kako<s n="conjsub"/></r></p></e>
 	
 	
 	<!-- SECTION: Prepositions -->
