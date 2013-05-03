@@ -58,6 +58,8 @@
 	<e><p><l>hledat<s n="vblex"/></l><r>tražiti<s n="vblex"/></r></p></e>
 	<e><p><l>odejít<s n="vblex"/></l><r>otići<s n="vblex"/></r></p></e>
 	<e><p><l>zeptat<s n="vblex"/></l><r>pitat<s n="vblex"/></r></p></e>
+	<e><p><l>umět<s n="vblex"/></l><r>moći<s n="vblex"/></r></p></e>
+	
 	
 	<!-- SECTION: Nouns -->
 	
@@ -80,8 +82,8 @@
 	
 	<!-- SECTION: Proper nouns -->
 	
-	<e><p><l>Jeníček<s n="np"/></l><r>Ivica<s n="np"/></r></p></e>
-	<e><p><l>Mařenka<s n="np"/></l><r>Marica<s n="np"/></r></p></e>
+	<e><p><l>Jeníček<s n="np"/><s n="ant"/><s n="m"/></l><r>Ivica<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+	<e><p><l>Mařenka<s n="np"/><s n="ant"/><s n="f"/></l><r>Marica<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 	
 	
 	<!-- SECTION: Pronouns -->
@@ -160,5 +162,9 @@
 	
 	<e><p><l>ne<s n="part"/></l><r>ne<s n="part"/></r></p></e>
 	
+	<e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+	
   </section>
 </dictionary>
+
+
