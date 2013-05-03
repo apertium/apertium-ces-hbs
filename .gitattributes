@@ -1,5 +1,7 @@
 * text=auto !eol
+/Makefile -text
 /apertium-ces-hbs.ces-hbs.dix -text
 /apertium-ces-hbs.ces.dix -text
 dev/rasskaz.ces.txt -text
 dev/rasskaz.hbs.txt -text
+/modes.xml -text
