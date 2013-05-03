@@ -23,7 +23,9 @@
 	<sdef n="prn" 		c="Pronoun"/>
 	<sdef n="ref" 		c="Reflexive"/>
 	<sdef n="pers" 		c="Personal"/>
+	<sdef n="ind" 		c="Indefinite"/>
 	<sdef n="itg" 		c="Interrogative"/>
+	
     <sdef n="pr" 		c="Preposition"/>
 
 	<sdef n="imperf" 	c="Imperfective"/>
@@ -34,6 +36,7 @@
 	
 	<sdef n="adv" 		c="Adverb"/>
 	<sdef n="mfn" 		c="Masculine/feminine/neuter"/>
+	<sdef n="mn" 		c="Masculine/neuter"/>
 	<sdef n="sp" 		c="Singular/plural"/>
 	
 	<sdef n="adj" 		c="Adjective"/>
@@ -110,25 +113,21 @@
 	
 	<!-- SECTION: Pronouns -->
 
-	<e><p><l>se<s n="prn"/><s n="ref"/></l><r>se<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></r></p></e>
-	
-	<e><p><l>si<s n="prn"/></l><r>se<s n="prn"/></r></p></e>
-	<e><p><l>mu<s n="prn"/></l><r>mu<s n="prn"/></r></p></e>
-	<e><p><l>jeho<s n="prn"/></l><r>mu<s n="prn"/></r></p></e>
-	<e r="LR"><p><l>jeho<s n="n"/><s n="m"/></l><r>njegova<s n="n"/><s n="f"/></r></p></e>
-	<e r="LR"><p><l>jeho<s n="n"/><s n="m"/></l><r>njegov<s n="n"/><s n="m"/></r></p></e>
-	<e r="LR"><p><l>jeho<s n="n"/><s n="m"/></l><r>njegovo<s n="n"/><s n="nt"/></r></p></e>
-	<e><p><l>jí<s n="prn"/></l><r>joj<s n="prn"/></r></p></e>
-	<e r="LR"><p><l>jejich<s n="n"/></l><r>njihova<s n="n"/><s n="f"/></r></p></e>
-	<e r="LR"><p><l>jejich<s n="n"/></l><r>njihov<s n="n"/><s n="m"/></r></p></e>
-	<e r="LR"><p><l>jejich<s n="n"/></l><r>njihovo<s n="n"/><s n="nt"/></r></p></e>
-	<e><p><l>nic<s n="prn"/></l><r>ništa<s n="prn"/></r></p></e>
-	<e><p><l>to<s n="prn"/></l><r>to<s n="prn"/></r></p></e>
-	<e><p><l>co<s n="prn"/></l><r>što<s n="prn"/></r></p></e>
-	<e><p><l>sebe<s n="prn"/></l><r>sebe<s n="prn"/></r></p></e>
-	<e><p><l>ho<s n="prn"/></l><r>ga<s n="prn"/></r></p></e>
-	
-	
+	<e><p><l>se<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></l><r>se<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></r></p></e>
+	<e><p><l>si<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></l><r>se<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></r></p></e>
+	<e><p><l>mu<s n="prn"/><s n="pers"/><s n="mn"/><s n="sg"/></l><r>mu<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></r></p></e>
+	<e r="LR"><p><l>jeho<s n="prn"/><s n="pers"/><s n="mfn"/><s n="sg"/></l><r>njegov<s n="prn"/><s n="pers"/><s n="m"/><s n="sg"/></r></p></e>
+	<e r="LR"><p><l>jeho<s n="prn"/><s n="pers"/><s n="mfn"/><s n="sg"/></l><r>njegova<s n="prn"/><s n="pers"/><s n="f"/><s n="sg"/></r></p></e>
+	<e r="LR"><p><l>jeho<s n="prn"/><s n="pers"/><s n="mfn"/><s n="sg"/></l><r>njegovo<s n="prn"/><s n="pers"/><s n="n"/><s n="sg"/></r></p></e>
+	<e><p><l>jí<s n="prn"/><s n="pers"/><s n="f"/><s n="sg"/></l><r>joj<s n="prn"/><s n="pers"/><s n="f"/><s n="sg"/></r></p></e>
+	<e r="LR"><p><l>jejich<s n="prn"/><s n="pers"/><s n="mfn"/><s n="pl"/></l><r>njihov<s n="prn"/><s n="pers"/><s n="m"/><s n="pl"/></r></p></e>
+	<e r="LR"><p><l>jejich<s n="prn"/><s n="pers"/><s n="mfn"/><s n="pl"/></l><r>njihova<s n="prn"/><s n="pers"/><s n="f"/><s n="pl"/></r></p></e>
+	<e r="LR"><p><l>jejich<s n="prn"/><s n="pers"/><s n="mfn"/><s n="pl"/></l><r>njihovo<s n="prn"/><s n="pers"/><s n="n"/><s n="pl"/></r></p></e>
+	<e><p><l>nic<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></l><r>ništa<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+	<e><p><l>to<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></l><r>to<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+	<e><p><l>co<s n="prn"/><s n="itg"/><s n="ind"/><s n="mfn"/><s n="sp"/></l><r>što<s n="prn"/><s n="itg"/><s n="ind"/><s n="mfn"/><s n="sp"/></r></p></e>
+	<e><p><l>sebe<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></l><r>sebe<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/></r></p></e>
+	<e><p><l>ho<s n="prn"/><s n="pers"/><s n="mn"/><s n="sg"/></l><r>ga<s n="prn"/><s n="pers"/><s n="mn"/><s n="sg"/></r></p></e>
 	
 	<!-- SECTION: Adjectives -->
 	
@@ -143,7 +142,7 @@
 	
 	<!-- SECTION: Adverbs -->
 	
-	<e><p><l>kde<s n="adv"/><s n="itg"/></l><r>gdje<s n="adv"/></r></p></e>
+	<e><p><l>kde<s n="adv"/><s n="itg"/></l><r>gdje<s n="adv"/><s n="itg"/></r></p></e>
 
 	<e><p><l>dnes<s n="adv"/></l><r>danas<s n="adv"/></r></p></e>
 	<e><p><l>ne<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
@@ -155,9 +154,9 @@
 	<e><p><l>teď<s n="adv"/></l><r>sad<s n="adv"/></r></p></e>
 	<e><p><l>rád<s n="adv"/></l><r>rado<s n="adv"/></r></p></e>
 	<e><p><l>svižně<s n="adv"/></l><r>hitro<s n="adv"/></r></p></e>
-	<e><p><l>proč<s n="adv"/></l><r>zašto<s n="adv"/></r></p></e>
+	<e><p><l>proč<s n="adv"/><s n="itg"/></l><r>zašto<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>když<s n="adv"/></l><r>kad<s n="adv"/></r></p></e>
-	<e><p><l>kampak<s n="adv"/></l><r>kamo<s n="adv"/></r></p></e>
+	<e><p><l>kampak<s n="adv"/><s n="itg"/></l><r>kamo<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>samozřejmě<s n="adv"/></l><r>naravno<s n="adv"/></r></p></e>
 	
 	
