@@ -58160,6 +58160,7 @@
 
 	<!-- Non-synthetic adverbs -->
     <e lm="zcela"><i>zcela</i><par n="tehdy__adv"/></e>
+    <e lm="teď"><i>teď</i><par n="tehdy__adv"/></e>
     <e lm="zda"><i>zda</i><par n="jak__adv"/></e>
     <e lm="zdarma"><i>zdarma</i><par n="tehdy__adv"/></e>
     <e lm="zde"><i>zde</i><par n="tehdy__adv"/></e>
@@ -58912,6 +58913,7 @@
     <e lm="Jaroslava"><i>Jaroslav</i><par n="Ann/a__np"/></e>
     <e lm="Jelena"><i>Jelen</i><par n="Ann/a__np"/></e>
     <e lm="Jena"><i>Jen</i><par n="Ann/a__np"/></e>
+	<e lm="Jeníček"><i>Jeníč</i><par n="zin/ek__n"/></e>
     <e lm="Jizerka"><i>Jizer</i><par n="Afri/ka__np"/></e>
     <e lm="Jizerské hory"><i>Jizersk</i><par n="Jizersk/é_hory__np"/></e>
     <e lm="Jiřina"><i>Jiřin</i><par n="Ann/a__np"/></e>
@@ -58985,6 +58987,7 @@
     <e lm="Mary"><i>Mary</i><par n="Britney__np"/></e>
     <e lm="Maryna"><i>Maryn</i><par n="Ann/a__np"/></e>
     <e lm="Marzena"><i>Marzen</i><par n="Ann/a__np"/></e>
+	<e lm="Mařenka"><i>Mařen</i><par n="Afri/ka__np"/></e>
     <e lm="Maureen"><i>Maureen</i><par n="Britney__np"/></e>
     <e lm="Maďarsko"><i>Maďars</i><par n="Čes/ko__np"/></e>
     <e lm="Małgorzata"><i>Małgorzat</i><par n="Ann/a__np"/></e>
