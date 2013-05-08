@@ -15809,6 +15809,77 @@
 
 
     </pardef>
+
+    <pardef n="Jeníč/ek__np">
+    <e>
+      <p>
+        <l>ek</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ka</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ku</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>kovi</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>ka</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>ku</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>ku</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>kovi</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>kem</l>
+        <r>ek<s n="np"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+
+    </pardef>
     <pardef n="únor__n">
     <e>
       <p>
@@ -26636,6 +26707,17 @@
       <p>
         <l></l>
         <r>ka<s n="np"/><s n="top"/></r>
+      </p>
+        <par n="BASE__dýka"/> 
+    </e>
+
+
+    </pardef>
+    <pardef n="Mařen/ka__np">
+    <e>
+      <p>
+        <l></l>
+        <r>ka<s n="np"/><s n="ant"/></r>
       </p>
         <par n="BASE__dýka"/> 
     </e>
@@ -58913,7 +58995,7 @@
     <e lm="Jaroslava"><i>Jaroslav</i><par n="Ann/a__np"/></e>
     <e lm="Jelena"><i>Jelen</i><par n="Ann/a__np"/></e>
     <e lm="Jena"><i>Jen</i><par n="Ann/a__np"/></e>
-	<e lm="Jeníček"><i>Jeníč</i><par n="zin/ek__n"/></e>
+    <e lm="Jeníček"><i>Jeníč</i><par n="Jeníč/ek__np"/></e>
     <e lm="Jizerka"><i>Jizer</i><par n="Afri/ka__np"/></e>
     <e lm="Jizerské hory"><i>Jizersk</i><par n="Jizersk/é_hory__np"/></e>
     <e lm="Jiřina"><i>Jiřin</i><par n="Ann/a__np"/></e>
@@ -58987,7 +59069,7 @@
     <e lm="Mary"><i>Mary</i><par n="Britney__np"/></e>
     <e lm="Maryna"><i>Maryn</i><par n="Ann/a__np"/></e>
     <e lm="Marzena"><i>Marzen</i><par n="Ann/a__np"/></e>
-	<e lm="Mařenka"><i>Mařen</i><par n="Afri/ka__np"/></e>
+    <e lm="Mařenka"><i>Mařen</i><par n="Mařen/ka__np"/></e>
     <e lm="Maureen"><i>Maureen</i><par n="Britney__np"/></e>
     <e lm="Maďarsko"><i>Maďars</i><par n="Čes/ko__np"/></e>
     <e lm="Małgorzata"><i>Małgorzat</i><par n="Ann/a__np"/></e>
