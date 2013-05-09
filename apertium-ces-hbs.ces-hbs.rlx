@@ -3,9 +3,11 @@ SOFT-DELIMITERS = "<,>" ;
 
 SETS
 
-LIST X = x ; 
+LIST Interr = itg ;
+
+LIST CLB = "." "?" "!" ;
 
 SECTION
 
-SELECT X ;
+SELECT Interr IF (1* ("?") BARRIER CLB) ;
   ## 
