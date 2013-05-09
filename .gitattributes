@@ -2,10 +2,12 @@
 /Makefile -text
 /alt.xsl -text
 /apertium-ces-hbs.ces-hbs.dix -text
+/apertium-ces-hbs.ces-hbs.rlx -text
 /apertium-ces-hbs.ces-hbs.t1x -text
 /apertium-ces-hbs.ces-hbs.t2x -text
 /apertium-ces-hbs.ces-hbs.t3x -text
 /apertium-ces-hbs.ces.dix -text
+/apertium-ces-hbs.hbs.metadix -text
 dev/rasskaz.ces.txt -text
 dev/rasskaz.hbs.txt -text
 /modes.xml -text

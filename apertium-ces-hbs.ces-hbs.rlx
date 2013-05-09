@@ -1,0 +1,11 @@
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" ;
+SOFT-DELIMITERS = "<,>" ;
+
+SETS
+
+LIST X = x ; 
+
+SECTION
+
+SELECT X ;
+  ## 

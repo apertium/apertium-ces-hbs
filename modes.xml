@@ -83,7 +83,7 @@
       	<file name="ces-hbs.t3x.bin"/>
       </program>
       <program name="lt-proc -g">
-        <file name="ces-hbs.autogen.bin"/>
+        <file name="ces-hbs_SR.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -114,7 +114,7 @@
       	<file name="ces-hbs.t3x.bin"/>
       </program>
       <program name="lt-proc -g">
-        <file name="ces-hbs.autogen.bin"/>
+        <file name="ces-hbs_HR.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
