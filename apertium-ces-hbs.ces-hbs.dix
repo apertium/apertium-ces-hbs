@@ -12,6 +12,7 @@
 	<sdef n="np" 		c="Proper noun"/>
 	
     <sdef n="m" 		c="Masculine"/>
+    <sdef n="ma" 		c="Masculine animate"/>
     <sdef n="f" 		c="Feminine"/>
     <sdef n="nt" 		c="Neuter"/>
 	<sdef n="GD" 		c="Gender to be determined"/>
