@@ -6937,7 +6937,7 @@
      </pardef>
 
       <!-- Adverbs --><pardef n="jak__adv">">
-       <e><p><l></l><r><s n="adv"/><s n="itg"/></r></p></e>
+       <e><p><l></l><r><s n="adv"/></r></p></e>
      </pardef>
 
      <pardef n="tehdy__adv">">
