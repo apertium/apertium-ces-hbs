@@ -2,7 +2,11 @@
 <!-- 	Dictionary: 	Sections: 4 	Entries: 10932 	Sdefs: 82 	Paradigms: 451 	Last processed by: apertium-dixtools fix -standard apertium-pl-cs.cs.dix cstmp  -->
 <dictionary>
   <alphabet>AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzžĄĆĘŃŚŻŹŁąćęńśżźłĕ</alphabet>   
-  <sdefs>     
+  <sdefs>    
+
+	<sdef n="clt" c="Clitic"/>
+	
+	
     <sdef n="n" />      
     <sdef n="np" />      
     <sdef n="sent" />      
