@@ -5815,7 +5815,7 @@
       
       <e><p><l>jesam</l><r>biti<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>jesi</l><r>biti<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>jest</l><r>biti<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <!-- <e><p><l>jest</l><r>biti<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e> -->  
       <e><p><l>jesmo</l><r>biti<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>jeste</l><r>biti<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l>jesu</l><r>biti<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
