@@ -5809,7 +5809,7 @@
       <e><p><l>nismo</l><r>ne<s n="part"/><s n="neg"/><j/>biti<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>ste</l><r>biti<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l>niste</l><r>ne<s n="part"/><s n="neg"/><j/>biti<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>su</l><r>biti<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>su</l><r>biti<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
       <e><p><l>nisu</l><r>ne<s n="part"/><s n="neg"/><j/>biti<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
       
