@@ -32646,6 +32646,8 @@
     <e lm="onud"><i>onud</i><par n="danas__adv"/></e>
     <e lm="onuda"><i>onuda</i><par n="danas__adv"/></e>
 
+	<e lm="gdje"><i>gd</i><par n="e_je__yat"/><par n="itg__adv"/></e>
+	
     <e lm="gdje"><i>gd</i><par n="e_je__yat"/><par n="danas__adv"/></e>
     <e lm="negdje"><i>negd</i><par n="e_je__yat"/><par n="danas__adv"/></e>
     <e lm="nigdje"><i>nigd</i><par n="e_je__yat"/><par n="danas__adv"/></e>
