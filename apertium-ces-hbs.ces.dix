@@ -6914,7 +6914,13 @@
        <e><p><l>ýšen</l><r>ýšit<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
      </pardef>
 
-      <!-- Prepositions --><pardef n="za__pr">">
+      <!-- Prepositions -->
+	  
+	  <pardef n="loc__pr">
+      <e><p><l/><r><s n="pr"/><s n="loc"/></r></p></e>
+    </pardef>
+	  
+	  <pardef n="za__pr">">
        <e><p><l></l><r><s n="pr"/></r></p></e>
      </pardef>
 
@@ -7544,7 +7550,7 @@
      <e r="LR" lm="beze"><p><l>beze</l><r>bez<s n="pr"/></r></p></e>
      <!-- ******************************           group pr       ****************************** -->
        <e lm="skrz"><i></i><par n="/skrz__pr"/></e>
-     <e lm="v"><i></i><par n="/v__pr"/></e>
+     <e lm="v"><i></i><par n="loc__pr/></e>
      <e lm="z"><i></i><par n="/z__pr"/></e>
      <e r="RL" lm="k"><p><l><a/>k</l><r>k</r></p><par n="za__pr"/></e>
      <e r="RL" lm="od"><p><l><a/>od</l><r>od</r></p><par n="za__pr"/></e>
