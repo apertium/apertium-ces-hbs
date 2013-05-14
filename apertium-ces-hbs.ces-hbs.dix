@@ -37,7 +37,7 @@
 
 	<sdef n="tv" 		c="Transitive"/>
 	<sdef n="iv" 		c="Intransitive"/>
-	
+	<sdef n="clt"		c="Clitic"/>
 	<sdef n="adv" 		c="Adverb"/>
 	<sdef n="mfn" 		c="Masculine/feminine/neuter"/>
 	<sdef n="mn" 		c="Masculine/neuter"/>

@@ -9,6 +9,20 @@
 /apertium-ces-hbs.ces.dix -text
 /apertium-ces-hbs.hbs.dix -text
 /apertium-ces-hbs.hbs.metadix -text
+/ces-hbs.autobil.bin -text svneol=unset#unset
+/ces-hbs.autogen.bin -text svneol=unset#unset
+/ces-hbs.automorf.bin -text svneol=unset#unset
+/ces-hbs.rlx.bin -text
+/ces-hbs.t1x.bin -text
+/ces-hbs.t2x.bin -text
+/ces-hbs.t3x.bin -text
+/ces-hbs_BS.autogen.bin -text svneol=unset#unset
+/ces-hbs_HR.mode -text
+/ces-hbs_SR.autogen.bin -text svneol=unset#unset
+/ces-hbs_SR.mode -text
 dev/rasskaz.ces.txt -text
 dev/rasskaz.hbs.txt -text
+/hbs-ces.autobil.bin -text svneol=unset#unset
+/hbs-ces.autogen.bin -text svneol=unset#unset
+/hbs-ces.automorf.bin -text svneol=unset#unset
 /modes.xml -text
