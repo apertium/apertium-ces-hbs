@@ -34,6 +34,7 @@
 
 	<sdef n="imperf" 	c="Imperfective"/>
 	<sdef n="perf" 		c="Perfective"/>
+	<sdef n="lp"/>
 
 	<sdef n="tv" 		c="Transitive"/>
 	<sdef n="iv" 		c="Intransitive"/>
@@ -184,8 +185,8 @@
 	<!-- SECTION: Adjectives -->
 	
 	<e><p><l>hezký<s n="adj"/></l><r>lijep<s n="adj"/></r></p></e>
-	<e><p><l>teplo<s n="adj"/></l><r>toplo<s n="adj"/></r></p></e>
-	<e><p><l>chladno<s n="adj"/></l><r>hladno<s n="adj"/></r></p></e>
+	<e><p><l>teplý<s n="adj"/></l><r>topao<s n="adj"/></r></p></e>
+	<e><p><l>chladný<s n="adj"/></l><r>hladan<s n="adj"/></r></p></e>
 	<e><p><l>velký<s n="adj"/></l><r>velik<s n="adj"/></r></p></e>
 	<e><p><l>malý<s n="adj"/></l><r>mali<s n="adj"/></r></p></e>
 	<e><p><l>šťastný<s n="adj"/></l><r>sretan<s n="adj"/></r></p></e>
@@ -196,7 +197,8 @@
 	<!-- SECTION: Adverbs -->
 	
 	<e><p><l>kde<s n="adv"/></l><r>gdje<s n="adv"/></r></p></e>
-
+	<e><p><l>teplo<s n="adv"/></l><r>toplo<s n="adv"/></r></p></e>
+	<e><p><l>chladno<s n="adv"/></l><r>hladno<s n="adv"/></r></p></e>
 	<e><p><l>dnes<s n="adv"/></l><r>danas<s n="adv"/></r></p></e>
 	<e><p><l>ne<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
 	<e><p><l>velice<s n="adv"/></l><r>jako<s n="adv"/></r></p></e>
