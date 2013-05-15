@@ -5968,21 +5968,21 @@
        <e><p><l></l><r><s n="pres"/></r></p><par n="BASE__udržím"/></e>
      </pardef>
        <pardef n="/být__vbser">">
-       <e><p><l>být</l><r>být<s n="vbser"/><s n="inf"/></r></p></e>
-        <e><p><l>jsem</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-       <e><p><l>jseš</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-       <e><p><l>jsme</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-       <e><p><l>jste</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+       <e><p><l>být</l><r>být<s n="vbser"/><s n="clt"/><s n="inf"/></r></p></e>
+        <e><p><l>jsem</l><r>být<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+       <e><p><l>jseš</l><r>být<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>je</l><r>být<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+       <e><p><l>jsme</l><r>být<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+       <e><p><l>jste</l><r>být<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
        <e><p><l>jsou</l><r>být<s n="vbser"/><s n="clt"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
-        <e><p><l>budu</l><r>být<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-       <e><p><l>budeš</l><r>být<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-       <e><p><l>bude</l><r>být<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sg"/></r></p></e>
-       <e><p><l>budeme</l><r>být<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-       <e><p><l>budete</l><r>být<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-       <e><p><l>budou</l><r>být<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r></p></e>
-        <e><p><l>byl</l><r>být<s n="vbser"/><s n="past"/></r></p><par n="BASE__četl"/></e>
-       <e><p><l>jsouc</l><r>být<s n="vbser"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
+        <e><p><l>budu</l><r>být<s n="vbser"/><s n="clt"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+       <e><p><l>budeš</l><r>být<s n="vbser"/><s n="clt"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+       <e><p><l>bude</l><r>být<s n="vbser"/><s n="clt"/><s n="fut"/><s n="p3"/><s n="sg"/></r></p></e>
+       <e><p><l>budeme</l><r>být<s n="vbser"/><s n="clt"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+       <e><p><l>budete</l><r>být<s n="vbser"/><s n="clt"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+       <e><p><l>budou</l><r>být<s n="vbser"/><s n="clt"/><s n="fut"/><s n="p3"/><s n="pl"/></r></p></e>
+        <e><p><l>byl</l><r>být<s n="vbser"/><s n="clt"/><s n="past"/></r></p><par n="BASE__četl"/></e>
+       <e><p><l>jsouc</l><r>být<s n="vbser"/><s n="clt"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
        <e><p><l>buď</l><r>být<s n="vbser"/></r></p><par n="BASE__udrž"/></e>
        <e><p><l>js</l><r>být<s n="vbser"/></r></p><par n="BASE__jsa"/></e>
      </pardef>
@@ -6916,8 +6916,8 @@
 
       <!-- Prepositions -->
 	  
-	  <pardef n="loc__pr">
-      <e><p><l/><r><s n="pr"/><s n="loc"/></r></p></e>
+	<pardef n="loc__pr">
+      <e><p><l></l><r><s n="pr"/><s n="loc"/></r></p></e>
     </pardef>
 	  
 	  <pardef n="za__pr">">
@@ -7550,7 +7550,7 @@
      <e r="LR" lm="beze"><p><l>beze</l><r>bez<s n="pr"/></r></p></e>
      <!-- ******************************           group pr       ****************************** -->
        <e lm="skrz"><i></i><par n="/skrz__pr"/></e>
-     <e lm="v"><i></i><par n="loc__pr"/></e>
+     <e lm="v"><i>v</i><par n="loc__pr"/></e>
      <e lm="z"><i></i><par n="/z__pr"/></e>
      <e r="RL" lm="k"><p><l><a/>k</l><r>k</r></p><par n="za__pr"/></e>
      <e r="RL" lm="od"><p><l><a/>od</l><r>od</r></p><par n="za__pr"/></e>
@@ -17682,7 +17682,7 @@
        <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
       <!-- SECTION: Verbs -->
        <e lm="být"><par n="v_neg"/><i></i><par n="/být__vbser"/></e>
-     <e><p><l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+     <!--<e><p><l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>-->
      <e><p><l>není</l><r>ne<s n="adv"/><j/>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
      <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vbhaver"/></e>
      <e lm="přijít"><par n="v_neg"/><i>při</i><par n="do/jít__vblex"/></e>
