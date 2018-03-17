@@ -26,3 +26,8 @@ dev/rasskaz.hbs.txt -text
 /hbs-ces.autogen.bin -text svneol=unset#unset
 /hbs-ces.automorf.bin -text svneol=unset#unset
 /modes.xml -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
